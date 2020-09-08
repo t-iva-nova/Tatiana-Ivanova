@@ -11,8 +11,3 @@
 - matplolib
 - seaborn
 - scipy
-
-
-```python
-
-```
