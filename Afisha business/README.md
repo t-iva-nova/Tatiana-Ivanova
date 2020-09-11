@@ -15,8 +15,8 @@
 - статистика рекламных расходов
 
 ## Используемые библиотеки
- - pandas
- - numpy
- - matplotlib
- - seaborn
+ - Pandas
+ - Numpy
+ - Matplotlib
+ - Seaborn
 
