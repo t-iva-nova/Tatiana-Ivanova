@@ -3,5 +3,5 @@
 | Название проекта | Описание | Используемые библиотеки|
 | :-------------------- | :-------------------- |:--------------------|
 | [Изучение рынка компьютерных игр](https://github.com/t-iva-nova/Analytics-projects-repository/tree/master/Games%20market)|  Изучение рынка игр, анализ продаж по годам, жанрам и платформам, составление портрета пользователя каждого региона, проверка статистических гипотезы.  | Pandas, Matplotlib, Seaborn, Scipy |
-| Анализ бизнес-показателей в Яндекс.Афише|  Анализ бизнес показателей по времени, девайсам, источникам. Рассчет количество сессий в день, длинны сессий, retention rate, среднего чека, LTV, CAC, ROMI, когортный анализ.  | Pandas, Numpy, Matplotlib, Seaborn |
-| Анализ пользовательского поведения в мобильном приложении| Изучение  воронки продаж в мобильном приложении и A/B тесты  | Pandas, Matplotlib, Scipy, Math, Numpy |
+| [Анализ бизнес-показателей в Яндекс.Афише](https://github.com/t-iva-nova/Analytics-projects-repository/tree/master/Afisha%20business)|  Анализ бизнес показателей по времени, девайсам, источникам. Рассчет количество сессий в день, длинны сессий, retention rate, среднего чека, LTV, CAC, ROMI, когортный анализ.  | Pandas, Numpy, Matplotlib, Seaborn |
+| [Анализ пользовательского поведения в мобильном приложении](https://github.com/t-iva-nova/Analytics-projects-repository/tree/master/Mobile%20app)| Изучение  воронки продаж в мобильном приложении и A/B тесты  | Pandas, Matplotlib, Scipy, Math, Numpy |
